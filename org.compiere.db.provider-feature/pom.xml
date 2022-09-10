@@ -5,7 +5,7 @@
 		<groupId>org.idempiere</groupId>
 		<artifactId>org.idempiere.parent</artifactId>
 		<version>${revision}</version>
-		<relativePath>../org.idempiere.parent/pom.xml</relativePath>
+		<relativePath>../../iDempiere/org.idempiere.parent/pom.xml</relativePath>
 	</parent>
 	<artifactId>org.compiere.db.provider.feature</artifactId>
 	<packaging>eclipse-feature</packaging>
